@@ -13,3 +13,19 @@ int main()
  	 
  	 return 0;
 }
+
+
+//To find product of two numbers
+#include<iostream>
+#include<conio.h>
+using namespace std;
+
+int main()
+{
+ 	 float a,b;
+ 	 cout<<"Enter two numbers:";
+ 	 cin>>a>>b;
+ 	 cout<<"Product="<<a*b;
+ 	 
+ 	 return 0;
+}
